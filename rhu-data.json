@@ -1,0 +1,110 @@
+{
+  "lastUpdated": "2026-04-16T10:00:00Z",
+  "medicineInventory": [
+    { "name": "Paracetamol 500mg", "stock": "Available" },
+    { "name": "Amoxicillin 250mg/5ml suspension", "stock": "Low Stock" },
+    { "name": "Losartan 50mg", "stock": "Available" },
+    { "name": "Metformin 500mg", "stock": "Available" },
+    { "name": "ORS (Oresol)", "stock": "Available" },
+    { "name": "Mefenamic Acid 500mg", "stock": "Available" },
+    { "name": "Ferrous Sulfate + Folic Acid (Iron supplement)", "stock": "Low Stock" },
+    { "name": "Calcium Carbonate 500mg", "stock": "Available" },
+    { "name": "Cotrimoxazole 480mg", "stock": "Out of Stock" },
+    { "name": "Albuterol inhaler (100mcg/dose)", "stock": "Low Stock" }
+  ],
+  "healthModules": {
+    "maternal": {
+      "title": "🤰 Maternal & Child Health (Kalusugan ng Ina at Bata)",
+      "intro": "Mahahalagang impormasyon para sa mga buntis, nagpapasuso, at kanilang mga sanggol mula sa Philippine Health Guide.",
+      "sections": [
+        {
+          "heading": "Prenatal Care (Pangangalaga sa Pagbubuntis)",
+          "content": "Magkaroon ng hindi bababa sa 8 ANC contacts ayon sa WHO. Uminom ng iron at folic acid araw-araw, at calcium supplements. Magpaturok ng tetanus toxoid. Kumain ng masustansyang pagkain—isda, gulay, prutas, at protina. Iwasan ang sigarilyo at alak."
+        },
+        {
+          "heading": "Breastfeeding (Pagpapasuso)",
+          "content": "I-exclusive breastfeeding sa unang 6 na buwan—walang tubig, formula, o ibang pagkain. Magpasuso tuwing gutom ang sanggol (on demand). Ang gatas ng ina ay nagpoprotekta laban sa diarrhea, pneumonia, at SIDS. Nakatutulong din ito sa ina na mabilis gumaling at mabawasan ang risk ng kanser."
+        },
+        {
+          "heading": "Danger Signs sa Pagbubuntis (Mga Palatandaan ng Emergency)",
+          "content": "Kapag may matinding sakit ng ulo, pagdurugo mula sa ari, panlalabo ng paningin, pamamaga ng kamay at mukha, o pananakit ng tiyan—pumunta agad sa pinakamalapit na ospital o RHU. Ito ay senyales ng preeclampsia o antepartum hemorrhage."
+        },
+        {
+          "heading": "Postpartum Care (Pagkatapos manganak)",
+          "content": "Magpa-check up 6 na linggo pagkatapos manganak. Uminom ng iron supplements para maiwasan ang anemia. Panatilihing malinis ang sugat (episiotomy o CS). Gumamit ng family planning upang makapag-agwat ng pagbubuntis."
+        }
+      ]
+    },
+    "nutrition": {
+      "title": "🥗 Nutrisyon (Pinggang Pinoy at Philippine Dietary Guidelines)",
+      "intro": "Gabay ng FNRI-DOST para sa balanseng pagkain ng Pilipino—tugon sa double burden ng malnutrition.",
+      "sections": [
+        {
+          "heading": "Pinggang Pinoy (Plato ng Wastong Pagkain)",
+          "content": "Hatiin ang plato sa: ½ gulay at prutas (Glow foods), ¼ kanin, kamote, o mais (Go foods), at ¼ isda, manok, itlog, tokwa, o monggo (Grow foods). Uminom ng tubig sa halip na softdrinks o matamis na inumin. Ito ay para sa healthy adult na 20 taon pataas."
+        },
+        {
+          "heading": "10 Kumainments (Philippine Dietary Guidelines)",
+          "content": "1. Kumain ng iba't ibang pagkain araw-araw. 2. Breastfeeding 0-6 months, complementary foods hanggang 2 taon. 3. Maraming gulay at prutas. 4. Kumain ng isda, lean meat, poultry, itlog, at nuts. 5. Uminom ng gatas at calcium-rich foods (dilis, alamang). 6. Safe at malinis na pagkain at tubig. 7. Gumamit ng iodized salt. 8. Limitahan ang maalat, mamantika, at matatamis. 9. Panatilihin ang healthy weight sa tamang diet at ehersisyo. 10. Maging aktibo, iwasan ang alak at sigarilyo."
+        },
+        {
+          "heading": "Para sa Buntis at Nagpapasuso",
+          "content": "Dagdagan ang protina, iron, calcium, folate, at iodine. Kumain ng atay, berdeng gulay, gatas, at isda. Uminom ng iron-folic acid supplements ayon sa reseta."
+        },
+        {
+          "heading": "Para sa Bata (3-5 taon)",
+          "content": "Gumamit ng child-sized Pinggang Pinoy. Bigyang-diin ang gatas at iron-rich foods para sa paglaki at brain development. Iwasan ang matamis na meryenda."
+        }
+      ]
+    },
+    "chronic": {
+      "title": "❤️ Chronic Disease Prevention (Pag-iwas sa Di-Nakakahawang Sakit)",
+      "intro": "Ang NCDs ay bumubuo ng ~70% ng lahat ng namamatay sa Pilipinas. Alamin ang mga risk factor at paano maiiwasan.",
+      "sections": [
+        {
+          "heading": "Altapresyon (Hypertension)",
+          "content": "Prevalence: 32.5% ng Filipino adults. Bawasan ang asin—iwasan ang patis, toyo, bagoong, at processed foods (instant noodles, canned goods). Kumain ng potassium-rich foods: saging, kamote, malunggay. Mag-ehersisyo 30 minuto araw-araw (paglalakad, pagbibisikleta). Magpa-BP check monthly. Uminom ng gamot (Losartan, Amlodipine) kung nireseta."
+        },
+        {
+          "heading": "Diabetes Mellitus (Type 2)",
+          "content": "Prevalence ~7-8% ng adults. Iwasan ang matatamis na inumin at puting kanin. Pumili ng brown rice, oatmeal, o whole grains. Kumain ng gulay sa bawat meal. Magpa-blood sugar (FBS o HbA1c) tuwing 3-6 na buwan. Uminom ng Metformin o insulin ayon sa payo ng doktor. Ang hindi kontroladong diabetes ay nagdudulot ng kidney failure, blindness, at atake sa puso."
+        },
+        {
+          "heading": "Iba pang Karaniwang NCDs",
+          "content": "• Ischemic heart disease at stroke: pangunahing sanhi ng kamatayan. Iwasan ang tabako, kontrolin ang BP at cholesterol. • Cancer: breast, lung, colorectal, cervix, atay. Magpa-screening (Pap smear, breast self-exam, colonoscopy). Magpabakuna laban sa HPV at Hepatitis B. • COPD: pangunahing sanhi ay paninigarilyo (22.7% ng matatanda naninigarilyo). Tumigil sa yosi at iwasan ang usok ng biomass fuel. • CKD: diabetic nephropathy at hypertensive nephrosclerosis ang nangungunang dahilan. Kontrolin ang asukal at BP."
+        },
+        {
+          "heading": "4 Shared Risk Factors (Iisang Sanhi)",
+          "content": "1. Paggamit ng tabako 2. Physical inactivity (20% lang ng adults ang active) 3. Unhealthy diet (mataas sa asin, asukal, taba; mababa sa gulay) 4. Mapaminsalang pag-inom ng alak. Baguhin ang lifestyle upang maiwasan ang hypertension, diabetes, obesity, at dyslipidemia."
+        }
+      ]
+    }
+  },
+  "vaccineAlerts": [
+    {
+      "vaccine": "BCG at Hepatitis B",
+      "targetAge": "At birth (kapanganakan)",
+      "message": "Siguraduhing matanggap ng sanggol ang BCG (vs TB) at Hepa B vaccine bago lumabas ng ospital o health center."
+    },
+    {
+      "vaccine": "Pentavalent (DPT-HepB-Hib)",
+      "targetAge": "6, 10, at 14 na linggo",
+      "message": "Kumpletuhin ang 3 doses ng Pentavalent vaccine laban sa diphtheria, pertussis, tetanus, hepatitis B, at Hib. Ito ay libre sa RHU."
+    },
+    {
+      "vaccine": "MMR (Tigdas, Beke, Rubella)",
+      "targetAge": "9 buwan at 12 buwan",
+      "message": "Dalhin ang bata sa health center para sa unang dose ng MMR sa 9 na buwan, at booster sa 12 buwan. Proteksyon laban sa tigdas na nagdulot ng outbreak noong 2019."
+    },
+    {
+      "vaccine": "Vitamin A Supplement",
+      "targetAge": "6 buwan hanggang 5 taon (every 6 months)",
+      "message": "Ang Vitamin A ay nagpoprotekta laban sa pagkabulag at impeksyon. Ibigay tuwing 6 na buwan sa RHU o sa Nutrition Month (July)."
+    },
+    {
+      "vaccine": "Rotavirus at PCV (Pneumococcal)",
+      "targetAge": "6, 10, 14 na linggo (kasabay ng Pentavalent)",
+      "message": "Ang Rotavirus vaccine ay laban sa matinding pagtatae; ang PCV ay laban sa pneumonia at meningitis. Kumpletuhin ang doses ayon sa schedule."
+    }
+  ]
+}
