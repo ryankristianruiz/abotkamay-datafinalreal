@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T14:34:00Z",
+  "lastUpdated": "2026-04-16T14:43:20Z",
   "medicineInventory": [
     { "name": "Paracetamol 500mg", "stock": "Available" },
     { "name": "Amoxicillin 250mg/5ml suspension", "stock": "Low Stock" },
@@ -19,7 +19,7 @@
       "sections": [
         {
           "heading": "Prenatal Care (Pangangalaga sa Pagbubuntis)",
-          "content": "Magkaroon ng hindi bababa sa 8 ANC contacts ayon sa WHO. Uminom ng iron at folic acid araw-araw, at calcium supplements. Magpaturok ng tetanus toxoid. Kumain ng masustansyang pagkain—isda, gulay, prutas, at protina. Iwasan ang sigarilyo at alak."
+          "content": "blablalbalakakMagkaroon ng hindi bababa sa 8 ANC contacts ayon sa WHO. Uminom ng iron at folic acid araw-araw, at calcium supplements. Magpaturok ng tetanus toxoid. Kumain ng masustansyang pagkain—isda, gulay, prutas, at protina. Iwasan ang sigarilyo at alak."
         },
         {
           "heading": "Breastfeeding (Pagpapasuso)",
@@ -41,7 +41,7 @@
       "sections": [
         {
           "heading": "Pinggang Pinoy (Plato ng Wastong Pagkain)",
-          "content": "Hatiin ang plato sa: ½ gulay at prutas (Glow foods), ¼ kanin, kamote, o mais (Go foods), at ¼ isda, manok, itlog, tokwa, o monggo (Grow foods). Uminom ng tubig sa halip na softdrinks o matamis na inumin. Ito ay para sa healthy adult na 20 taon pataas."
+          "content": "yayayaayayayaHatiin ang plato sa: ½ gulay at prutas (Glow foods), ¼ kanin, kamote, o mais (Go foods), at ¼ isda, manok, itlog, tokwa, o monggo (Grow foods). Uminom ng tubig sa halip na softdrinks o matamis na inumin. Ito ay para sa healthy adult na 20 taon pataas."
         },
         {
           "heading": "10 Kumainments (Philippine Dietary Guidelines)",
