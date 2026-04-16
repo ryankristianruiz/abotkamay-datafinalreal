@@ -15,8 +15,7 @@
   "healthModules": {
     "maternal": {
       "title": "🤰 Maternal & Child Health (Kalusugan ng Ina at Bata)",
-      "intro": "testing testing 
-      Mahahalagang impormasyon para sa mga buntis, nagpapasuso, at kanilang mga sanggol mula sa Philippine Health Guide.",
+      "intro": "testing testing Mahahalagang impormasyon para sa mga buntis, nagpapasuso, at kanilang mga sanggol mula sa Philippine Health Guide.",
       "sections": [
         {
           "heading": "Prenatal Care (Pangangalaga sa Pagbubuntis)",
