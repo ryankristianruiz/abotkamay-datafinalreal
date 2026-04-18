@@ -1,7 +1,7 @@
 {
   "lastUpdated": "2026-04-16T14:43:20Z",
   "medicineInventory": [
-    { "name": "Paracetamol 500mg", "stock": "Available" },
+    { "name": "Paracetamol 500mg", "stock": "Not Available" },
     { "name": "Amoxicillin 250mg/5ml suspension", "stock": "Low Stock" },
     { "name": "Losartan 50mg", "stock": "Available" },
     { "name": "Metformin 500mg", "stock": "Available" },
